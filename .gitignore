@@ -1,0 +1,6 @@
+*.npmrc
+*.history
+*.map
+**/~
+.vscode
+.editorconfig
